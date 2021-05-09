@@ -1,3 +1,4 @@
+<hr /> 
 - Learn.
 - Write.
 - Debug.
