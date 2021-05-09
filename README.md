@@ -1,8 +1,8 @@
-### Learn.
-### Write.
-### Debug.
-### Contribute.
-### And Leave Legacy 🤔
+- Learn.
+- Write.
+- Debug.
+- Contribute.
+- And Leave Legacy 🤔
 
 <!--
 **rbernanda/rbernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
